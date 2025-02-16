@@ -1,0 +1,21 @@
+product_id,name,category,brand,price,tax_rate
+P001,shoulder,Grocery,Adidas,344.62,7.5
+P002,election,Grocery,Apple,270.56,7.5
+P003,common,Electronics,Sony,280.84,7.5
+P004,maintain,Electronics,Sony,1034.54,7.5
+P005,hundred,Electronics,Nike,422.45,7.5
+P006,expect,Home & Furniture,Sony,1442.27,7.5
+P007,wish,Grocery,Nike,811.04,7.5
+P008,push,Fashion,Dell,760.83,7.5
+P009,rise,Home & Furniture,Samsung,169.8,7.5
+P010,onto,Grocery,Adidas,1621.16,7.5
+P011,discuss,Grocery,Samsung,686.56,7.5
+P012,reveal,Grocery,Dell,1616.58,7.5
+P013,garden,Electronics,Sony,1836.54,7.5
+P014,threat,Electronics,Apple,486.15,7.5
+P015,special,Grocery,Samsung,638.34,7.5
+P016,stand,Electronics,Nike,1754.0,7.5
+P017,arrive,Home & Furniture,Adidas,125.65,7.5
+P018,drop,Fashion,Apple,1596.89,7.5
+P019,term,Grocery,Apple,530.01,7.5
+P020,almost,Grocery,Adidas,903.13,7.5

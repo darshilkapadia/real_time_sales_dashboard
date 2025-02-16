@@ -1,0 +1,5 @@
+payment_id,type
+PM01,Credit Card
+PM02,Debit Card
+PM03,Cash
+PM04,PayPal
